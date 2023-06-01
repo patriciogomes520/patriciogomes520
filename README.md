@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patriciogomes520
+- 👋 Hi, I’m Patrício Gomes
 - 👀 I’m interested in improve my Android Developer Skills
 - 🌱 I’m currently learning Android Developer
 - 💞️ I’m looking to collaborate on android development projects with kotlin language
