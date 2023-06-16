@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patrício Gomes
-- 👀 I’m interested in improve my Android Developer Skills
+- 👀 I’m interested in improve my Software Developer Skiils
 - 🌱 I’m currently learning Android Developer
 - 💞️ I’m looking to collaborate on android development projects with kotlin language
 - 📫 How to reach me www.patriciogomes.com
